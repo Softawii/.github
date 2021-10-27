@@ -1,3 +1,3 @@
 # Softawii
 
-![my_friend](./my_friend.gif)
+![my_friend](/profile/my_friend.gif)
